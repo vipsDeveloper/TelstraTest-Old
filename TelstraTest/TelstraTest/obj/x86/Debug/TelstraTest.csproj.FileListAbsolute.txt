@@ -1,0 +1,4 @@
+C:\Users\468471\Documents\Projects\TelstraCoddingTest\TelstraTest\bin\Debug\TelstraCoddingTest.exe
+C:\Users\468471\Documents\Projects\TelstraCoddingTest\TelstraTest\bin\Debug\TelstraCoddingTest.pdb
+C:\Users\468471\Documents\Projects\TelstraCoddingTest\TelstraTest\obj\x86\Debug\TelstraCoddingTest.exe
+C:\Users\468471\Documents\Projects\TelstraCoddingTest\TelstraTest\obj\x86\Debug\TelstraCoddingTest.pdb
